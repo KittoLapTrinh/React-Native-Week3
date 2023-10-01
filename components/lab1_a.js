@@ -1,11 +1,13 @@
 import { StyleSheet, Text, View, Image,  } from 'react-native';
 import React from 'react'
 import { Button } from 'react-native-web';
+import { useNavigation } from '@react-navigation/native';
 
 export default function App() {
     return (
         <View style={styles.container}>
             <View style={styles.top}>
+               
                 <Image
                 style={{
                     width: 150,

@@ -17,7 +17,7 @@ export default function Frame7() {
               size={24}
               color="black"
             />
-            <TextInput style={{ width: "75%" }} placeholder="Name" />
+            <TextInput style={{ width: "85%" }} placeholder="Name" />
           </View>
   
           <View style={styles.center2}>
@@ -27,7 +27,7 @@ export default function Frame7() {
               size={24}
               color="black"
             />
-            <TextInput placeholder="Password"></TextInput>
+            <TextInput placeholder="Password" style={{ width: "75%" }}></TextInput>
             <AntDesign name="eye" size={24} color="black" />
           </View>
           <View style={styles.bottom}>
