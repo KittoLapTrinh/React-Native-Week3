@@ -4,7 +4,7 @@ import { Button,RadioButton } from 'react-native-web';
 import { TouchableOpacity } from "react-native";
 import { AntDesign } from "@expo/vector-icons";
 
-export default function App() {
+export default function lab1_e() {
     return (
         <View style={styles.container}>
             <View style={styles.top}>

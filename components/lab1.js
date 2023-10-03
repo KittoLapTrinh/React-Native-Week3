@@ -1,8 +1,8 @@
-import { StyleSheet, Text, View, Image,  } from 'react-native';
+import { StyleSheet, Text, View, Image, TextInput  } from 'react-native';
 import React from 'react'
 import { Button } from 'react-native-web';
 
-export default function App() {
+export default function lab1() {
     return (
         <View style={styles.container}>
             <View style={styles.top}>

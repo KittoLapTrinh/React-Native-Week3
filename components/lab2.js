@@ -2,7 +2,7 @@ import {StyleSheet, Text, View, TextInput, TouchableOpacity,} from "react-native
 import React from "react";
 import { FontAwesome5 } from "@expo/vector-icons";
 import { AntDesign } from "@expo/vector-icons";
-export default function Frame7() {
+export default function lab2() {
     return (
       <View style={styles.container}>
         <View style={styles.top}>
